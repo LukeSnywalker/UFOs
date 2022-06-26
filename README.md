@@ -22,4 +22,4 @@ The user can also search for multiple criteria. For example, if they wanted to s
 
 A drawback of this webpage is that the searches are case-sensitive, and they must match the exact format and spelling as in the data. If the user were to search for "St. Louis" or "st louis" instead of "st. louis", results would not be displayed, because the website script only searches for exact matches for the user input.
 
-To further develop this webpage, we could find a way to be make data matches more lenient, possibly using regex in the filterTable() function in app.js. We could also add code in app.js and an additional <li /> element in index.html that would allow the user to search the comments for certain keywords.
+To further develop this webpage, we could find a way to be make data matches more lenient, possibly using regex in the filterTable() function in app.js. We could also add code in app.js and an additional "li" element in index.html that would allow the user to search the comments for certain keywords.
